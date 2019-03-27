@@ -1,12 +1,12 @@
 # SciFi UI Project
 
-Name:
+Name: Stephen Lynch
 
-Student Number: 
+Student Number: C17455002
 
-Fork this repository and use it a starter project for your assignment
 
-# Description of the assignment
+
+For this assignment I will be creating a sci-fi based interface using all aspects of Java I have learnt from Object Oriantated Programming
 
 # Instructions
 
